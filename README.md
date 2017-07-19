@@ -1,0 +1,2 @@
+# geometry
+Geometric visualization framework.
